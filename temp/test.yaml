@@ -3,5 +3,5 @@ branch:
   main: release
 release: 'github'
 github:
-  repo: "esres-chatops-slack-gateway"
-  user: 'sky-uk'
+  repo: "configs"
+  user: 'aogunwoolu'
