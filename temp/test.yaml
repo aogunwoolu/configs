@@ -1,6 +1,6 @@
 commitFormat: conventional
 branch:
-  main: release
+  master: release
 release: 'github'
 github:
   repo: "configs"
