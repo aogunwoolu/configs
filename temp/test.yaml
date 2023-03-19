@@ -4,4 +4,4 @@ branch:
 release: 'github'
 github:
   repo: "configs"
-  user: 'aogunwoolu'
+  user: "aogunwoolu"
